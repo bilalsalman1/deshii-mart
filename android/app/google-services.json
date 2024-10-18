@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340966523987",
+    "project_id": "deshii-mart",
+    "storage_bucket": "deshii-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340966523987:android:659e7702d689ac8920b2a6",
+        "android_client_info": {
+          "package_name": "com.example.deshii_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3QmA9LtV207oUJlRFv_6NJr0dRSX_8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
